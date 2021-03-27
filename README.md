@@ -11,7 +11,7 @@
 
 <p>&nbsp;</p>
 
-## 👨🏻‍💻 My Languages/Tools:
+## 👨🏻‍💻 Linguagens/Ferramentas:
 
 <p align="center">
 <img align="center">
@@ -26,7 +26,7 @@
 
 <p>&nbsp;</p>
 
-## ☎️ Contact Me:
+## ☎️ Contato:
 
 <p align="center">
 <a href = "rennan_sbarros@hotmail.com"><img src="https://github.com/Rennan-sbarros/rennan-sbarros/blob/main/Diversos/icon-outlook.png" alt='outlook' height='40'></a>
