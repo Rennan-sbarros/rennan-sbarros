@@ -29,7 +29,7 @@
 ## ☎️ Contact Me:
 
 <p align="center">
-<a href = "rennan_sbarros@hotmail.com"><img src="https://github.com/Rennan-sbarros/rennan sbarros/blob/main/Diversos/icon-outlook.png" alt='outlook' height='40'></a>
+<a href = "rennan_sbarros@hotmail.com"><img src="https://github.com/Rennan-sbarros/rennan-sbarros/blob/main/Diversos/icon-outlook.png" alt='outlook' height='40'></a>
 <a href = https://www.linkedin.com/in/rennan-candido1/><img src="https://github.com/Rennan-sbarros/rennan-sbarros/blob/main/Diversos/icon-linkedlin.png" alt='linkedlin' height='40'></a>
 <a href = https://www.instagram.com/rennan_candid0//><img src="https://github.com/Rennan-sbarros/rennan-sbarros/blob/main/Diversos/icon-instagram.png" alt='linkedin' height='40'></a>
 <a href = https://www.facebook.com/rennan.candido.1//><img src="https://github.com/Rennan-sbarros/rennan-sbarros/blob/main/Diversos/icon-facebook.png" alt='facebook' height='40'></a>
