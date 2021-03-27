@@ -13,7 +13,7 @@
 
 ## 👨🏻‍💻 My Languages/Tools:
 
-<div>
+<p align="center">
 <img align="center">
 <img src="https://github.com/Rennan-sbarros/rennan-sbarros/blob/main/Diversos/icon-javascript.png" alt="javascript" width="50" height="50"/> 
 <img src="https://github.com/Rennan-sbarros/rennan-sbarros/blob/main/Diversos/icon-python.png" alt="python" width="50" height="50"/> 
