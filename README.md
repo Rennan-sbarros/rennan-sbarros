@@ -15,7 +15,7 @@
 
 <div>
 <p align="center">
-<img src="https://github.com/Rennan-sbarros/rennan-sbarros/blob/main/Diversos/icon-js.png" alt="javascript" width="80" height="80"/> 
+<img src="https://github.com/Rennan-sbarros/rennan-sbarros/blob/main/Diversos/icon-js.png" alt="javascript" width="70" height="70"/> 
 <img src="https://github.com/Rennan-sbarros/rennan-sbarros/blob/main/Diversos/icon-python.png" alt="python" width="50" height="50"/> 
 <img src="https://github.com/Rennan-sbarros/rennan-sbarros/blob/main/Diversos/icon-html.png" alt="html" width="50" height="50"/> 
 <img src="https://github.com/Rennan-sbarros/rennan-sbarros/blob/main/Diversos/icon-css.png" alt="css3" width="50" height="50"/> 
