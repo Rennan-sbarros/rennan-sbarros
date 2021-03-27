@@ -19,7 +19,7 @@
 <img src="https://github.com/Rennan-sbarros/rennan-sbarros/blob/main/Diversos/icon-python.png" alt="python" width="50" height="50"/> 
 <img src="https://github.com/Rennan-sbarros/rennan-sbarros/blob/main/Diversos/icon-html.png" alt="html" width="50" height="50"/> 
 <img src="https://github.com/Rennan-sbarros/rennan-sbarros/blob/main/Diversos/icon-css.png" alt="css3" width="50" height="50"/> 
-<img src="https://github.com/Rennan-sbarros/rennan-sbarros/blob/main/Diversos/angular.png" alt="angular" width="57" height="55"/> 
+<img src="https://github.com/Rennan-sbarros/rennan-sbarros/blob/main/Diversos/angular.png" alt="angular" width="55" height="53"/> 
 <img src="https://github.com/Rennan-sbarros/rennan-sbarros/blob/main/Diversos/icon-django.png" alt="django" width="50" height="50"/> 
 <img src="https://github.com/Rennan-sbarros/rennan-sbarros/blob/main/Diversos/icon-mysql.png" alt="mysql" width="50" height="50"/>
 </div>
