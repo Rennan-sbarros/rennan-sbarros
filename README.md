@@ -5,8 +5,8 @@
 
 ## 📚 Sobre mim:
 
-- Graduando em Análise e Desenvolvimento de Sistemas, curso em parceria com o Porto Digital.
-- Busco atuar na área de Desenvolvimento Web, como Front-End Developer. Desta forma, me dedico a estudar HTML5, CSS3 e JavaScript. Em conjunto com o framework ReactJS.
+- Graduado em Análise e Desenvolvimento de Sistemas, curso em parceria com o Porto Digital.
+- Busco atuar na área de Desenvolvimento Web, como Front-End Developer. Desta forma, me dedico a estudar HTML5, CSS3 e JavaScript. Em conjunto com o framework ReactJS. E utilizo Java e o SpringBoot para implementar o Back-end da aplicação.
 - Procuro, de forma constante, adquirir novas habilidades que agreguem em meu desempenho e produtividade, através de cursos online, bootcamps e projetos individuais e em grupos.
 
 <p>&nbsp;</p>
