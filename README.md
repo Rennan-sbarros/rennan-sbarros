@@ -15,11 +15,12 @@
 
 <p align="center">
 <img align="center">
-<img src="https://github.com/Rennan-sbarros/rennan-sbarros/blob/main/Diversos/icon-javascript.png" alt="javascript" width="50" height="50"/> 
+<img src="https://github.com/Rennan-sbarros/rennan-sbarros/blob/main/Diversos/icon-javascript.png" alt="javascript" width="50" height="50"/>
+<img src="https://github.com/Rennan-sbarros/rennan-sbarros/blob/main/Diversos/java.png" alt="java" width="50" height="50"/> 
 <img src="https://github.com/Rennan-sbarros/rennan-sbarros/blob/main/Diversos/icon-python.png" alt="python" width="50" height="50"/> 
 <img src="https://github.com/Rennan-sbarros/rennan-sbarros/blob/main/Diversos/icon-html.png" alt="html" width="50" height="50"/> 
 <img src="https://github.com/Rennan-sbarros/rennan-sbarros/blob/main/Diversos/icon-css.png" alt="css3" width="50" height="50"/> 
-<img src="https://github.com/Rennan-sbarros/rennan-sbarros/blob/main/Diversos/icon-angularJs.png" alt="angular" width="50" height="50"/> 
+<img src="https://github.com/Rennan-sbarros/rennan-sbarros/blob/main/Diversos/react.png" alt="react" width="50" height="50"/> 
 <img src="https://github.com/Rennan-sbarros/rennan-sbarros/blob/main/Diversos/icon-djangoo.png" alt="django" width="50" height="50"/> 
 <img src="https://github.com/Rennan-sbarros/rennan-sbarros/blob/main/Diversos/icon-mysql.png" alt="mysql" width="50" height="50"/>
 </div>
@@ -29,7 +30,7 @@
 ## ☎️ Contato:
 
 <p align="center">
-<a href = "rennan_sbarros@hotmail.com"><img src="https://github.com/Rennan-sbarros/rennan-sbarros/blob/main/Diversos/icon-outlook.png" alt='outlook' height='40'></a>
+<a href = rennansbarros@hotmail.com><img src="https://github.com/Rennan-sbarros/rennan-sbarros/blob/main/Diversos/icon-outlook.png" alt='outlook' height='40'></a>
 <a href = https://www.linkedin.com/in/rennan-candido1/><img src="https://github.com/Rennan-sbarros/rennan-sbarros/blob/main/Diversos/icon-linkedlin.png" alt='linkedlin' height='40'></a>
 <a href = https://www.instagram.com/rennan_candid0//><img src="https://github.com/Rennan-sbarros/rennan-sbarros/blob/main/Diversos/icon-instagram.png" alt='linkedin' height='40'></a>
 <a href = https://www.facebook.com/rennan.candido.1//><img src="https://github.com/Rennan-sbarros/rennan-sbarros/blob/main/Diversos/icon-facebook.png" alt='facebook' height='40'></a>
