@@ -10,21 +10,22 @@ Procuro, de forma constante, adquirir novas habilidades que agreguem em meu dese
 <h3>👨🏻‍💻 Linguagens e Ferramentas</h3>
 
 <p>
-  <img alt="Angular" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" width="50" title="Angular"/>
-  <img alt="TypeScript" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="50" title="TypeScript"/>
-  <img alt="HTML5" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="50" title="HTML5"/>
-  <img alt="CSS3" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="50" title="CSS3"/>
-  <img alt="JavaScript" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50" title="JavaScript"/>
-  <img alt="Bootstrap" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" width="50" title="Bootstrap"/>
-  <br>
-  <br>
-  <img alt="SASS" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="50" title="SASS"/>
-  <img alt="Node" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="50" title="Node"/>
-  <img alt="Git" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="50" title="Git"/>
-  <img alt="azure" src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" width="50" title="Azure"/>
-  <img alt="Figma" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="50" title="Figma"/>
-  <img alt="mysql" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="50" title="Mysql"/>
+    <img alt="Angular" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" width="50" title="Angular"/>
+    <img alt="TypeScript" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="50" title="TypeScript"/>
+    <img alt="JavaScript" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50" title="JavaScript"/>
+    <img alt="Node" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="50" title="Node"/>
+    <br>
+    <img alt="HTML5" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="50" title="HTML5"/>
+  	<img alt="CSS3" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="50" title="CSS3"/>
+    <img alt="Bootstrap" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" width="50" title="Bootstrap"/>
+  	<img alt="SASS" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="50" title="SASS"/>
+    <br>
+    <img alt="Git" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="50" title="Git"/>
+	<img alt="azure" src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" width="50" title="Azure"/>
+	<img alt="Figma" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="50" title="Figma"/>
+  	<img alt="mysql" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="50" title="Mysql"/>
 </p>
+
 
 <h3>☎️ Contato</h3>
 
