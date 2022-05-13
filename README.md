@@ -36,15 +36,10 @@ Procuro, de forma constante, adquirir novas habilidades que agreguem em meu dese
 <a href = https://www.instagram.com/rennan_candid0/><img src="https://github.com/Rennan-sbarros/rennan-sbarros/blob/main/Diversos/icons/instagram.png" alt='instagram' width="50"></a>
 
 <p>&nbsp;</p>
-<p>&nbsp;</p>
 
 <p align = "center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rennan-sbarros&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rennan-sbarros&layout=compact&langs_count=7&theme=dracula"/>
 </p>
-
-
-<p>&nbsp;</p>
-<p>&nbsp;</p>
 
 ![Snake animation](https://github.com/rennan-sbarros/rennan-sbarros/blob/output/github-contribution-grid-snake.svg)
