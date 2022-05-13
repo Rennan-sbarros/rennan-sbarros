@@ -47,4 +47,4 @@ Procuro, de forma constante, adquirir novas habilidades que agreguem em meu dese
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
-![Snake animation](https://github.com/rennan-sbarros/rennan-sbarros/master/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/rennan-sbarros/rennan-sbarros/blob/output/github-contribution-grid-snake.svg)
