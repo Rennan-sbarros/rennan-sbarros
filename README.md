@@ -19,7 +19,7 @@ Sou graduado em Análise e Desenvolvimento de Sistemas, curso em parceria com o 
 
 Procuro, de forma constante, adquirir novas habilidades que agreguem em meu desempenho e produtividade, através de cursos online, bootcamps e projetos individuais e em grupos. Desta forma, me dedico a estudar HTML5, CSS3 e JavaScript/Typescript. Em conjunto com o framework Angular. 
 
-<h3>👨🏻‍💻 Linguagens e Ferramentas</h3>
+<h3>👨🏻‍💻 Linguagens e Ferramentas </h3>
 
 <p>
   <img alt="Angular" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" width="50" title="Angular"/>
