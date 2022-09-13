@@ -1,0 +1,143 @@
+{
+	"info": {
+		"_postman_id": "f1f29014-b632-4a7b-b8c4-324d558f4233",
+		"name": "Web_Vehicles - API Node.js + Mongoose",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "12829327"
+	},
+	"item": [
+		{
+			"name": "Create vehicle",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n        \"placa\": \"ssssss\",\r\n        \"chassi\": \"\",\r\n        \"renavam\": \"48785928744\",\r\n        \"modelo\": \"HB20S Comfort Style 1.0 \",\r\n        \"marca\": \"Hyundai\",\r\n        \"ano\": \"2017\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "{{URL}}/vehicles",
+					"host": [
+						"{{URL}}"
+					],
+					"path": [
+						"vehicles"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Read vehicles",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{URL}}/vehicles",
+					"host": [
+						"{{URL}}"
+					],
+					"path": [
+						"vehicles"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Read vehicle by id",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{URL}}/vehicles/631f7fe202bee0e3d5d8b7cc",
+					"host": [
+						"{{URL}}"
+					],
+					"path": [
+						"vehicles",
+						"631f7fe202bee0e3d5d8b7cc"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Update vehicle",
+			"request": {
+				"method": "PATCH",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"placa\": \"KFF-6844\",\r\n    \"chassi\": \"89595dd59a25sd\",\r\n    \"renavam\": \"16370772632\",\r\n    \"modelo\": \"Sentra UNIQUE 2.0 Flex\",\r\n    \"marca\": \"Nissan\",\r\n    \"ano\": \"2012\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "{{URL}}/vehicles/631e60a1f07b0bc40d98f61b",
+					"host": [
+						"{{URL}}"
+					],
+					"path": [
+						"vehicles",
+						"631e60a1f07b0bc40d98f61b"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "delete vehicle",
+			"request": {
+				"method": "DELETE",
+				"header": [],
+				"url": {
+					"raw": "{{URL}}/vehicles/631fa04190eab1c2988a7050",
+					"host": [
+						"{{URL}}"
+					],
+					"path": [
+						"vehicles",
+						"631fa04190eab1c2988a7050"
+					]
+				}
+			},
+			"response": []
+		}
+	],
+	"event": [
+		{
+			"listen": "prerequest",
+			"script": {
+				"type": "text/javascript",
+				"exec": [
+					""
+				]
+			}
+		},
+		{
+			"listen": "test",
+			"script": {
+				"type": "text/javascript",
+				"exec": [
+					""
+				]
+			}
+		}
+	],
+	"variable": [
+		{
+			"key": "URL",
+			"value": "http://localhost:3000",
+			"type": "string"
+		}
+	]
+}
